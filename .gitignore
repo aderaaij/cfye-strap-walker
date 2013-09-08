@@ -182,7 +182,9 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 
-
+#sublime stuff
+*.sublime-project
+*.sublime-workspace
 #############
 ## Python
 #############
