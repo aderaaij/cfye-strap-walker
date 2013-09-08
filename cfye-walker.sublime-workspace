@@ -1,0 +1,937 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"get_image",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"shoppin",
+				"shopping-bag-white"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wp_reg",
+				"wp_register_script"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"height",
+				"heightSupport"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"wp_enqueue_",
+				"wp_enqueue_style"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"sect",
+				"sectionindex-anchor-list"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"imp",
+				"important"
+			],
+			[
+				"portfo",
+				"portfolio-slideshow"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"the_thumbn",
+				"the_post_thumbnail"
+			],
+			[
+				"backgron",
+				"background-position"
+			],
+			[
+				"id",
+				"id=  (attribute)"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cfye-strap-walker.php",
+			"settings":
+			{
+				"buffer_size": 3222,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "cfye_walker.php",
+			"settings":
+			{
+				"buffer_size": 6459,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "edit_cfye_walker.php",
+			"settings":
+			{
+				"buffer_size": 13098,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Arden de Raaij/Downloads/sweet-custom-menu/sweet-custom-menu/custom_walker.php",
+			"settings":
+			{
+				"buffer_size": 1942,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"wordpress",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"emmet",
+				"Emmet: Select Next Item"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Arden de Raaij/Downloads/bootstrap(1)/css/bootstrap.css",
+		"/C/Users/Arden de Raaij/Downloads/bootstrap(1)/js/bootstrap.js",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/body-class.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/functions.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/enqueue.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/sass/_base.scss",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/sass/libs/_settings.scss",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/sass/screen.scss",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/content-single.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/content.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/entry-meta.php",
+		"/C/xampp/htdocs/clients/cfye/wp-config.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/fonts/style.css",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/sass/libs/_typography.scss",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/single.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/taxonomies.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/custom-post-types.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfye/includes/custom-fields.php",
+		"/C/Users/Arden de Raaij/Downloads/CFYE/SQLDumpSplitterResult/cfye_site_DataStructure.sql",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfye-foundation/sass/app.scss",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfye-foundation/style.css",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfye-foundation/config.rb",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/footer.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/cfye-v4.sublime-workspace",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/index.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/sidebar.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/comments.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/navigation.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/titles.php",
+		"/C/xampp/htdocs/clients/cfye/wp-content/themes/cfyev4/includes/widget-call.php",
+		"/C/xampp/htdocs/clients/cfyev2/wp-content/themes/cfye/header.php",
+		"/C/xampp/htdocs/clients/pzr/wp-content/themes/pzr/pzr.sublime-workspace",
+		"/C/xampp/htdocs/clients/pzr/wp-content/themes/pzr/pzr.sublime-project",
+		"/C/xampp/htdocs/clients/pzr/wp-content/themes/pzr/footer.php",
+		"/C/xampp/htdocs/clients/pzr/wp-content/themes/pzr/style.css",
+		"/C/Users/Arden de Raaij/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/C/xampp/htdocs/clients/pzr/wp-content/themes/pzr/sftp-config.json",
+		"/C/Users/Arden de Raaij/Downloads/cfye_site.sql",
+		"/C/Users/Arden de Raaij/Desktop/htpasswd",
+		"/C/Users/Arden de Raaij/Desktop/phpinfo.php",
+		"/C/Users/Arden de Raaij/Desktop/wp-config.php",
+		"/C/Users/Arden de Raaij/Downloads/let.sql",
+		"/C/Users/Arden de Raaij/Desktop/.htaccess",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/sass/screen.scss",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/js/init.js",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/enqueue.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/sass/_base.scss",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/sass/libs/_mixins.scss",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/checkout/form-billing.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/checkout/review-order.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/checkout/form-shipping.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/sass/woocommerce.scss",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/checkout/form-checkout.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/sass/libs/_rem.scss",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/tabs/description.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/content-product.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/loop/price.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/stylesheets/woocommerce.css",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/shop/messages.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/price.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/stylesheets/screen.css",
+		"/C/Users/Arden de Raaij/Downloads/Retina-Sprites-for-Compass-master/Retina-Sprites-for-Compass-master/demo/scss/main.scss",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/config.rb",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce-cart.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/sass/libs/_settings.scss",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/tabs/tab-description.php",
+		"/C/Users/Arden de Raaij/Downloads/Retina-Sprites-for-Compass-master/Retina-Sprites-for-Compass-master/demo/css/main.css",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/cart/cart.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/tabs.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/tabs/attributes.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/tabs/tab-attributes.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/related.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/front-page.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/myaccount/form-login.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/myaccount/my-address.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/stylesheets/etalage.css",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/custom-post-types.php",
+		"/C/Users/Arden de Raaij/Downloads/codecanyon-180719-etalage/example_basic.html",
+		"/C/Users/Arden de Raaij/Downloads/codecanyon-180719-etalage/index.html",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/product-image.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/product-thumbnails.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/add-to-cart/variable.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/header.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/widget-call.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/titles.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/navigation.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/entry-meta.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/comments.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/includes/body-class.php",
+		"/C/xampp/htdocs/clients/wordpress/wp-content/themes/twentytwelve/style.css",
+		"/C/xampp/mysql/data/schoneluchtvooriedereen/wp_options.MYD",
+		"/C/xampp/mysql/data/schoneluchtvooriedereen/wp_postmeta.frm",
+		"/C/xampp/htdocs/clients/dasusa/index.php",
+		"/C/xampp/htdocs/clients/dasusa/wp-config.php",
+		"/C/Users/Arden de Raaij/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/xampp/htdocs/clients/vicenmitzy/wp-content/themes/vicenmitzy/sass/screen.scss",
+		"/C/xampp/htdocs/clients/vicenmitzy/wp-content/themes/vicenmitzy/css/screen.css",
+		"/C/xampp/htdocs/clients/vicenmitzy/wp-content/themes/vicenmitzy/single-producten.php",
+		"/C/xampp/htdocs/clients/bergermeer/wp-content/themes/bergermeer/functions/theme-options.php",
+		"/C/xampp/htdocs/clients/bergermeer/wp-content/themes/bergermeer/footer.php",
+		"/C/Users/Arden de Raaij/Desktop/.htaccess_",
+		"/C/xampp/htdocs/clients/wordpress/wp-content/themes/twentytwelve/single.php",
+		"/C/xampp/htdocs/clients/wordpress/wp-content/themes/twentytwelve/js/ajax.js",
+		"/C/xampp/htdocs/clients/wordpress/wp-content/themes/twentytwelve/functions.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/page-shop.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/add-to-cart/grouped.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/woocommerce/single-product/product-attributes.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/footer.php",
+		"/C/xampp/htdocs/clients/let/wp-content/themes/let/stylesheets/uniform.css",
+		"/I/52c7196fb1f653f292d4a0/DHtmlHeader.html",
+		"/I/52c7196fb1f653f292d4a0/UiInfo.xml",
+		"/C/xampp/htdocs/clients/lenfantterrible/wp-content/themes/lenfantterrible/config.rb",
+		"/C/Users/Arden de Raaij/Desktop/temp/wp-config.php",
+		"/C/Users/Arden de Raaij/Desktop/temp/.htaccess",
+		"/C/Users/Arden de Raaij/Downloads/localhost(1).sql",
+		"/C/xampp/htdocs/clients/vicenmitzy/wp-content/themes/vicenmitzy/js/init.js",
+		"/C/Users/Arden de Raaij/Downloads/vicenmitzy(1).sql",
+		"/C/xampp/htdocs/clients/vicenmitzy/.htaccess",
+		"/C/xampp/htdocs/clients/vicenmitzy/.htpasswd",
+		"/C/xampp/htdocs/clients/ferdinand/index.php",
+		"/C/xampp/htdocs/clients/ferdinand2/index.php",
+		"/C/xampp/htdocs/clients/ferdinand/htaccess.txt",
+		"/C/xampp/htdocs/clients/ferdinand/info.php",
+		"/C/xampp/htdocs/clients/ferdinand/video.php",
+		"/C/xampp/htdocs/clients/vicenmitzy/wp-content/themes/vicenmitzy/page-galerij.php",
+		"/C/xampp/htdocs/clients/ferdinand/css/style.css",
+		"/C/Users/Arden de Raaij/Downloads/buildinternet-supersized-v3.2-35-g2ccedfd(1)/buildinternet-supersized-2ccedfd/slideshow/js/supersized.3.2.7.js",
+		"/C/xampp/htdocs/clients/ferdinand/js/responsiveslides.min.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"<open folders>,<open files>",
+			"C:\\xampp\\htdocs\\clients\\ardennl\\wp-content\\plugins\\crayon-syntax-highlighter",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end_el",
+			"dropdown-menu",
+			"descr",
+			"graffiti",
+			"subtitle",
+			"dataiconafter",
+			"subtitle",
+			"subtitles",
+			"subtitle",
+			"dataiconafter",
+			"subtitle",
+			"twitte",
+			"cfye_strap_nav",
+			"strap_nav",
+			"rc_",
+			"rc",
+			"rc_scm",
+			"include",
+			"twitter_bootstrap_nav_walker",
+			"transition",
+			"display: none",
+			"display:none",
+			"font",
+			"font-size",
+			"dropdown",
+			"caret",
+			"dropdown-toggle",
+			"top-menu-nav",
+			"menu-top-nav",
+			"overflow",
+			"site-header",
+			"clearfix",
+			"overflow",
+			"govid_",
+			".container",
+			"squish",
+			"entry-content",
+			"edit",
+			"pad(",
+			"pad",
+			"img",
+			"dasusa",
+			"yellow",
+			"yellowtail",
+			"yellowta",
+			"oswald",
+			"$dark",
+			"$",
+			"$tertiary",
+			"$green",
+			"dasusa",
+			"footer",
+			".wrap",
+			"patientenzorgrecht.nl",
+			"localhost/clients/let",
+			".site",
+			"@include prefix",
+			"prefix",
+			"width:",
+			"span-columns",
+			"1.5",
+			"span-columns",
+			"width",
+			"span-columns",
+			"rem",
+			"font",
+			"font-size",
+			"single_add_to_cart_button",
+			"single_add",
+			"absolute-",
+			"em;",
+			"rem;",
+			"font",
+			"font-size",
+			"font",
+			".video",
+			"message-in",
+			"absolute",
+			"meta-overlay",
+			"ui-tooltip",
+			"adjust-font-size-to",
+			".video",
+			"fp-small",
+			".video",
+			".fp-small",
+			".video",
+			"fp-small",
+			"height",
+			"fp-small",
+			".video",
+			"checkout_table",
+			"checkout_table_item",
+			"gray",
+			"3.&nbsp",
+			"billing address",
+			"payment",
+			"#payment",
+			"check-your-order",
+			"shipping_address",
+			"checkout-box",
+			"check-out-box-last",
+			"checkout-box-last",
+			"2.&nbsp",
+			"1. billing",
+			"\"payment\"",
+			"shipping address",
+			"\"Shipping address",
+			"\"review-order\"",
+			"fluid",
+			"h1",
+			"product_title",
+			"#000",
+			"#00",
+			"woocommerce",
+			"add_to_cart_button",
+			"add_to_cart",
+			"single_add",
+			"single_add_to_cart_button",
+			"single_add_to_cart_button ",
+			"sprite",
+			"svg",
+			"product descri",
+			"product-description",
+			"product-descriptio",
+			"support",
+			"$support",
+			"archive",
+			"product"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cfye_strap",
+			"cfye_strap_nav",
+			"add_new_",
+			"cfye",
+			"localhost/clients/pzr",
+			"let.arden.nl",
+			"$tertiary",
+			"$primary",
+			"$secondary",
+			"$primary",
+			"let",
+			"go-focus.com",
+			"vicenmitzy.arden.nl",
+			"$light-text",
+			"localhost/clients/ardennl",
+			"'large'",
+			"'photo-thumb'",
+			".site-title",
+			".media-content",
+			"vicenmitzy.arden.nl",
+			"producten",
+			"product",
+			"vicenmitzy",
+			"go-focus.arden.nl"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cfye-strap-walker.php",
+					"settings":
+					{
+						"buffer_size": 3222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1693,
+								1693
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "cfye_walker.php",
+					"settings":
+					{
+						"buffer_size": 6459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6459,
+								6459
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2280.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "edit_cfye_walker.php",
+					"settings":
+					{
+						"buffer_size": 13098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9685,
+								9699
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2617.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Arden de Raaij/Downloads/sweet-custom-menu/sweet-custom-menu/custom_walker.php",
+					"settings":
+					{
+						"buffer_size": 1942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 408.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 126.0
+	},
+	"output.sftp":
+	{
+		"height": 126.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true
+}
