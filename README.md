@@ -11,7 +11,7 @@ Note that this plugin does not include any font-icons, css styling or javascript
 
 * Install the plugin by uploading the files to your plugin folder or installing it via the WP admin
 * Add theme support for the custom walker. [wp_nav_menu reference](http://codex.wordpress.org/Function_Reference/wp_nav_menu)
-	`wp_nav_menu(
+	wp_nav_menu(
 		array(
 			'menu'       => 'side_menu',
 			'depth'      => 3,
@@ -19,8 +19,8 @@ Note that this plugin does not include any font-icons, css styling or javascript
 			'menu_class' => 'nav nav-tabs nav-stacked',
 			//CFYE Strap nav plugin call
 			'walker' => new cfye_strap_nav()
-   			)
-		);`
+   		)
+	);
 * Add font-icon classes in Wordpress back-end
 * Style with CSS 
 
