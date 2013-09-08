@@ -1,10 +1,28 @@
-cfye-strap-walker
+CFYE-Strap Wordpress menu-walker plugin
 =================
 
-Custom Wordpress menu walker plugin with font-icons
+This Wordpress Menu walker plugin is made to support font-icons both before and after the menu-text by adding classes.
 
-This Wordpress menu walker plugin is made to insert font icons by their class names either before or after the menu-item.
-Submenu's are supported
+This plugin is originally created for http://cfye.com. 
+
+Note that this plugin does not include any font-icons, css styling or javascript. 
+
+### Instructions
+
+* Install
+* Add to Theme:
+	wp_nav_menu(
+		array(
+			'menu'       => 'side_menu',
+			'depth'      => 3,
+			'container'  => false,
+			'menu_class' => 'nav nav-tabs nav-stacked',
+			//CFYE Strap nav plugin call
+			'walker' => new cfye_strap_nav()
+   			)
+		);
+* Add font-icon classes in Wordpress back-end
+* Style with CSS 
 
 Originally based on:
 
