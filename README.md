@@ -24,9 +24,8 @@ Note that this plugin does not include any font-icons, css styling or javascript
 * Add font-icon classes in Wordpress back-end
 * Style with CSS 
 
-Originally based on:
+### Originally based on twitter_bootstrap_nav_walker:
 
- * Class Name: twitter_bootstrap_nav_walker
  * GitHub URI: https://github.com/twittem/wp-bootstrap-navwalker
  * Description: A custom Wordpress nav walker to implement the Twitter Bootstrap 2 (https://github.com/twitter/bootstrap/) dropdown navigation using the Wordpress built in menu manager.
  * Version: 1.2.2
