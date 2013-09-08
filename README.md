@@ -11,6 +11,8 @@ Note that this plugin does not include any font-icons, css styling or javascript
 
 * Install the plugin by uploading the files to your plugin folder or installing it via the WP admin
 * Add theme support for the custom walker. [wp_nav_menu reference](http://codex.wordpress.org/Function_Reference/wp_nav_menu)
+	<!-- well hey there sailor -->
+
 		wp_nav_menu(
 			array(
 				'menu'       => 'side_menu',
