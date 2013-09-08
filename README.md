@@ -11,7 +11,7 @@ Note that this plugin does not include any font-icons, css styling or javascript
 
 * Install the plugin by uploading the files to your plugin folder or installing it via the WP admin
 * Add to Theme:
-	`wp_nav_menu( <br/>
+	`wp_nav_menu(
 		array(
 			'menu'       => 'side_menu',
 			'depth'      => 3,
