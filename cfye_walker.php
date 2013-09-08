@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Class Name: twitter_bootstrap_nav_walker
- * GitHub URI: https://github.com/twittem/wp-bootstrap-navwalker
- * Description: A custom Wordpress nav walker to implement the Twitter Bootstrap 2 (https://github.com/twitter/bootstrap/) dropdown navigation using the Wordpress built in menu manager.
- * Version: 1.2.2
- * Author: Edward McIntyre - @twittem
+ * Class Name: cfye_strap_nav_walker
+ * GitHub URI: https://github.com/aderaaij/cfye-strap-walker
+ * Description: A custom Wordpress nav walker to implement font-icons 
+ * Version: 1.0
+ * Author: Arden de Raaij - http://arden.nl
  * Licence: WTFPL 2.0 (http://sam.zoy.org/wtfpl/COPYING)
  */
 
